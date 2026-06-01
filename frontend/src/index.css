@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+:root {
+  font-family: Inter, Segoe UI, Roboto, Arial, sans-serif;
+}
+
+body {
+  margin: 0;
+  background: #020617;
+}
+
+#root {
+  min-height: 100vh;
+}
